@@ -10,18 +10,18 @@ Feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/anujkau
 
 ## Skills
 
-![Kubernetes](https://img.shields.io/badge/-Magento-EE672F?style=flat-square&logo=magento&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-purple?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=aws)
 ![Magento](https://img.shields.io/badge/-Magento-EE672F?style=flat-square&logo=magento&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style)
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style&logo=jenkins)
 
 ## Codes in
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-sq)
-![Go](https://img.shields.io/badge/Go-brightgreen)
+![PHP](https://img.shields.io/badge/-PHP-yellow?style=flat-sq&logo=php&logoColor=black)
+![Go](https://img.shields.io/badge/Go-grey?logo=go)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-red?style=flat-square&logo=typescript&logoColor=black)
 
 ## Connect with me
 
