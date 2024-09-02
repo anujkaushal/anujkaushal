@@ -2,8 +2,6 @@
 
 <img align="right" alt="Anuj" src="https://avatars.githubusercontent.com/u/32764738?v=4" width="200" height="200" /> 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=anujkaushal.visitor-badge)](https://github.com/anujkaushal)
-
 Hi, my name is Anuj Kaushal and I am a **Software Engineer** at Acquia based in Delhi, India.
 
 I have experience in building Magento based eCommerce solutions. Well versed in PHP, Python, Go, MySQL & TypeScript. Proficient in Kubernetes and Magento Commerce. Developed scalable cloud infrastructure and eCommerce solutions using technologies like Kubernetes, AWS, Git, Docker, Jenkins, Magento to provide customized solution specific to client’s business requirements.
