@@ -6,7 +6,7 @@
 
 Hi, my name is Anuj Kaushal and I am a **Software Engineer** at Acquia based in Delhi, India.
 
-I have experience in building Magento based eCommerce solutions. Well versed in PHP, Python, Go, MySQL & JS. Proficient in Kubernetes and Magento Commerce. Developed scalable cloud infrastructure and eCommerce solutions using technologies like Kubernetes, AWS, Git, Docker, Jenkins, Magento to provide customized solution specific to client’s business requirements.
+I have experience in building Magento based eCommerce solutions. Well versed in PHP, Python, Go, MySQL & TypeScript. Proficient in Kubernetes and Magento Commerce. Developed scalable cloud infrastructure and eCommerce solutions using technologies like Kubernetes, AWS, Git, Docker, Jenkins, Magento to provide customized solution specific to client’s business requirements.
 
 Feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/anujkaushal/) and connect with me.
 
@@ -23,7 +23,7 @@ Feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/anujkau
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-sq)
 ![Go](https://img.shields.io/badge/Go-brightgreen)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## Connect with me
 
